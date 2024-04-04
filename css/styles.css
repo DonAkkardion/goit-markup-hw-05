@@ -829,6 +829,9 @@ img{
     color: var(--modal-check-color);
     margin-top: 16px;
 }
+.check-icon-wrap{
+    display: inline-flex;
+}
 .check-text span{
     display: inline-flex;
     align-items: center;
